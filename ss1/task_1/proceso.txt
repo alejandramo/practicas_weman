@@ -1,0 +1,19 @@
+.
+.
+1.Identificar la estructura de la página
+2. Trazar las secciones en las que se separará el proyecto
+3. Generar el index.html con los elementos necesarios y agregar las secciones o contenedores principales. 
+4. Identificar las características que cada contenedor principal tiene y descomponerlos en contenedores más pequeños.
+5. Buscar recursos gráficos para vaciar en las secciones que lo requieren.
+6. Organizar carpetas de archivos e imágenes.
+7. Usar w3schools como “diccionario” para resolver las distribuciones de cada contenedor. 
+8.Trabajar en un contenedor por etapa, de arriba a abajo. Cuando el primero queda “resuelto”, pasar al segundo, etc.
+9.Revisar que los enlaces funcionen y que la página funcione al menos en algunas vistas.
+**** subirlo a github
+10. *El sitio no es responsivo aún*
+11. Hacer responsivo el sitio.
+**** actualizarlo en github
+.
+.
+.
+.
