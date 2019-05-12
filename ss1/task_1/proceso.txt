@@ -23,10 +23,10 @@ ______________________________________________
 * ¡Es responsivo! Eso está muy bien
 * Todo aquello que diga que hace clic debe hacer algo, pero:
  * Los íconos de arriba solamente abren la imagen --> cambiar iconos y vincularlos con páginas o contacto (POR RESOLVER)
- * La etiqueta "Filtrar por:" no tiene funcionalidad.
+ * La etiqueta "Filtrar por:" no tiene funcionalidad. --> Resolver haciando una nueva ventana con un resumen de mi perfil... y otra con imágenes y links de proyectos que he hecho y en los que he colaborado... 
 * ¡Muy buenas fotos! me encantaría que me mandaran a un lugar donde pudiera verlas mejor --> Resuelto con enlace a instragram
-* Hay muchas carpetas antes de llegar, hay ciertos estándares a seguir respecto a las carpetas. Si bien no son obligados, son útiles cuando vas iniciando.
-* No hay un solo dato tuyo, salvo el nombre. Aplaudo tu prudencia, pero sería útil al menos saber un poco de tu perfil.
+* Hay muchas carpetas antes de llegar, hay ciertos estándares a seguir respecto a las carpetas. Si bien no son obligados, son útiles cuando vas iniciando. -->mover ubicación del pro
+* No hay un solo dato tuyo, salvo el nombre. Aplaudo tu prudencia, pero sería útil al menos saber un poco de tu perfil. --> resolver con linkx de cambios 
 * En general tiene problemas de identado el HTML ("identado" es la sangría que se aplica al texto para saber que estás en un bloque de código). A veces dejas cuatro espacios, a veces 8, a veces 2 y no siempre son adecuados. En el mundo profesional es una marca de distincion el identar bien, tu equipo lo va a agradecer mucho.
 * En el CSS estás usando nombres de fuentes que muchas veces solamente están disponibles en Windows. Eso hace que otras máquinas/sistemas operativos no muestren tu sitio web tal cual lo esperas. Es mejor referirte a familias como "sans-serif", "monospace", etc. que a fuentes que pueden estar solamente en un sistema operativo.
 
