@@ -1,7 +1,8 @@
 .
-.
+0. Crer repositorio en github y clonarlo en el directorio de prácticas. 
 1.Identificar la estructura de la página
 2. Trazar las secciones en las que se separará el proyecto
+3. Crear repositorio en Git Hub
 3. Generar el index.html con los elementos necesarios y agregar las secciones o contenedores principales. 
 4. Identificar las características que cada contenedor principal tiene y descomponerlos en contenedores más pequeños.
 5. Buscar recursos gráficos para vaciar en las secciones que lo requieren.
@@ -15,5 +16,19 @@
 **** actualizarlo en github
 .
 .
-.
-.
+
+______________________________________________
+* Los pasos del punto 1 al 9 me parecen adecuados, metódicos y pertinentes. 
+* En algún punto antes del paso 1 recomendaría marcar la creación del repositorio local, o bien, el clonado de un repositorio remoto. --> Resuelto en paso 0
+* ¡Es responsivo! Eso está muy bien
+* Todo aquello que diga que hace clic debe hacer algo, pero:
+ * Los íconos de arriba solamente abren la imagen --> cambiar iconos y vincularlos con páginas o contacto (POR RESOLVER)
+ * La etiqueta "Filtrar por:" no tiene funcionalidad.
+* ¡Muy buenas fotos! me encantaría que me mandaran a un lugar donde pudiera verlas mejor --> Resuelto con enlace a instragram
+* Hay muchas carpetas antes de llegar, hay ciertos estándares a seguir respecto a las carpetas. Si bien no son obligados, son útiles cuando vas iniciando.
+* No hay un solo dato tuyo, salvo el nombre. Aplaudo tu prudencia, pero sería útil al menos saber un poco de tu perfil.
+* En general tiene problemas de identado el HTML ("identado" es la sangría que se aplica al texto para saber que estás en un bloque de código). A veces dejas cuatro espacios, a veces 8, a veces 2 y no siempre son adecuados. En el mundo profesional es una marca de distincion el identar bien, tu equipo lo va a agradecer mucho.
+* En el CSS estás usando nombres de fuentes que muchas veces solamente están disponibles en Windows. Eso hace que otras máquinas/sistemas operativos no muestren tu sitio web tal cual lo esperas. Es mejor referirte a familias como "sans-serif", "monospace", etc. que a fuentes que pueden estar solamente en un sistema operativo.
+
+Great job for the first week! Please make improvements based on the above comments and ask your mentor to review for a second opinion.
+-->
